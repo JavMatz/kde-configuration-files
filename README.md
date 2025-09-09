@@ -175,33 +175,24 @@
 
 # KDE Applications
 
-#### Ark
-   * `.config/arkrc`
-#### Dolphin
-   * `.config/dolphinrc`
-#### Filelight
-   * `.config/filelightrc`
-#### Gwenview
-   * `.config/dolphinrc`
-#### Kate
-   * `.config/katerc`
-   * `.config/katevirc`
-   * `.config/kate-externaltoolspluginrc`
-#### KCalc
-   * `.config/kcalcrc`
-#### KDE Partition Manager
-   * `.config/partitionmanagerrc`
-#### Konsole
-   * `.config/konsolerc`
-   * `.config/konsolesshconfig`
-#### Krusader
-   * `.config/krusaderrc`
-#### Spectacle
-   * `.config/spectaclerc`
-#### System Monitor
-   * `.config/systemmonitorrc`
-#### System Settings
-   * `.config/systemsettingsrc`
+| Application           | Native                                                                         | Flatpak |
+|-----------------------|--------------------------------------------------------------------------------|---------|
+| Ark                   | `.config/arkrc`                                                                | Flatpak |
+| Dolphin               | `.config/dolphinrc`                                                            | Flatpak |
+| Filelight             | `.config/filelightrc`                                                          | Flatpak |
+| Gwenview              | `.config/dolphinrc`                                                            | Flatpak |
+|                       | `.config/katerc`                                                             | Flatpak |
+| Kate                  | `.config/katevirc`                                                           | Flatpak |
+|                       | `.config/kate-externaltoolspluginrc`                                         | Flatpak |
+| KCalc                 | `.config/kcalcrc`                                                              | Flatpak |
+| KDE Partition Manager | `.config/partitionmanagerrc`                                                   | Flatpak |
+| Konsole               | `.config/konsolerc`                                                            | Flatpak |
+|                       | `.config/konsolesshconfig`                                                     | Flatpak |
+| Krusader              | `.config/krusaderrc`                                                           | Flatpak |
+| Spectacle             | `.config/spectaclerc`                                                          | Flatpak |
+| System Monitor        | `.config/systemmonitorrc`                                                      | Flatpak |
+| System Settings       | `.config/systemsettingsrc`                                                     | Flatpak |
+
 # Settings
 
 ## changing appearance
